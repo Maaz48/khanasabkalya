@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "user-view",
+    "slug": "user-view",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "user-view"
+}
