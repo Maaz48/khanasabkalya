@@ -1,11 +1,12 @@
 {
   "expo": {
-    "name": "user-view",
-    "slug": "user-view",
+    "name": "appkhana",
+    "slug": "appkhana",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "description": ""
   },
   "name": "user-view"
 }
